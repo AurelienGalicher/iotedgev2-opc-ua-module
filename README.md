@@ -29,3 +29,7 @@ Provide the required parameter for the start script and execute it
 ```
 
 After that you can `docker logs -f opc-client` and `docker logs -f opc-server` to see communication between both
+
+
+### Installing dotnet on Ubuntu
+https://docs.microsoft.com/fr-fr/dotnet/core/linux-prerequisites?tabs=netcore2x
